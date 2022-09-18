@@ -7,3 +7,5 @@ Python projects made throughout my time practicing the language
 - Project 2- A Simulation of the card game War!.
 - Project 3- A game of Hangman! - must be used on jupyter notebook since i implimented the clear_outpuy function, to make it more clean
 - Project 4- A password generator
+- Project 5- Caesar Cipher - input a message, the amount you want to shift it, then type if you would like to encode or decode the message
+              second method is only a decoder and must be specified in the code and not as an input
