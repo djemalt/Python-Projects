@@ -9,3 +9,8 @@ Python projects made throughout my time practicing the language
 - Project 4- A password generator
 - Project 5- Caesar Cipher - input a message, the amount you want to shift it, then type if you would like to encode or decode the message
               second method is only a decoder and must be specified in the code and not as an input
+              
+              
+      
+# PyCharm  projects
+- Project 6- A simple Trivia game. Mainly to practice using Pycharm and OOP
