@@ -1,3 +1,0 @@
-Simple Trivia game.
-
-First proejct on PyCharm and a practice on OOP.
