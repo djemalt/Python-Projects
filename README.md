@@ -14,3 +14,5 @@ Python projects made throughout my time practicing the language
       
 # PyCharm  projects
 - Project 6- A simple Trivia game. Mainly to practice using Pycharm and OOP
+- Project 7- The old school Mobile Snake game! 
+- Project 8- Turtle Crossing game! - get to the other side!
