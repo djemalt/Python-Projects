@@ -1,7 +1,7 @@
 # Python-Projects
 Python projects made throughout my time practicing the language
 
-# Jupyter notebook projects
+### Jupyter notebook projects
 
 - Project 1- A simple Tic-Tac-Toe game you can play locally as two players.
 - Project 2- A Simulation of the card game War!.
@@ -12,7 +12,7 @@ Python projects made throughout my time practicing the language
               
               
       
-# PyCharm  projects
+### PyCharm  projects
 - Project 6- A simple Trivia game. Mainly to practice using Pycharm and OOP
 - Project 7- The old school Mobile Snake game! 
 - Project 8- Turtle Crossing game! - get to the other side!
